@@ -1,0 +1,15 @@
+D:\Faks\Sistemsko\PrviProjekat\bin\Debug\net6.0\PrviProjekat.exe
+D:\Faks\Sistemsko\PrviProjekat\bin\Debug\net6.0\PrviProjekat.deps.json
+D:\Faks\Sistemsko\PrviProjekat\bin\Debug\net6.0\PrviProjekat.runtimeconfig.json
+D:\Faks\Sistemsko\PrviProjekat\bin\Debug\net6.0\PrviProjekat.dll
+D:\Faks\Sistemsko\PrviProjekat\bin\Debug\net6.0\PrviProjekat.pdb
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.csproj.AssemblyReference.cache
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.AssemblyInfoInputs.cache
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.AssemblyInfo.cs
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.csproj.CoreCompileInputs.cache
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.dll
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\refint\PrviProjekat.dll
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.pdb
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\PrviProjekat.genruntimeconfig.cache
+D:\Faks\Sistemsko\PrviProjekat\obj\Debug\net6.0\ref\PrviProjekat.dll
